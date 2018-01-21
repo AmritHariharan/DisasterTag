@@ -1,6 +1,7 @@
 DisasterTag
 ===========
 Made at SpartaHack 18
+Presentation : http://slides.com/connorjones-1/disaster-tag
 
 ## Inspiration
 We were very motivated to got after the challenges presented to during or immediately following a natural disaster, We came to the conclusion that the most deterministic factor of how well an event was handled was  by effective communication between first responders in the field and medical professionals in the hospital. 
